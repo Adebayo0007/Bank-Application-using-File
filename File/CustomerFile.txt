@@ -1,0 +1,9 @@
+FirstName^^^LastName^^^AccountNumber^^^Email^^^Password^^^PhoneNumbe^^^Address^^^gender^^^Pin^^^AccountType
+Adebayo^^^Abdullah^^^6501980100^^^ADEBAYO@GMAIL.COM^^^1234^^^08060619772^^^10,Abayomi jeromu street^^^male^^^1234^^^Business account
+Adebayo^^^Abdullah^^^3248720100^^^ADEBAYO@GMAIL.COM^^^Ade123^^^08060619112^^^10,Abayomi jeromu street^^^male^^^1234^^^Savings account
+Adebayo^^^Abdullah^^^3978230100^^^ADEBAYO@GMAIL.COM^^^Ade123^^^08060619772^^^10,Abayomi jeromu street^^^male^^^1234^^^Current account
+Adebayo^^^Abdullai^^^3626480100^^^ADEBAYO@GMAIL.COM^^^Ade123^^^08060619772^^^10,Abayomi street^^^male^^^1234^^^Savings account
+Adebayo^^^Abdullahi^^^5436170100^^^ADEBAYO@GMAIL.COM^^^Ade123^^^08060619772^^^10,Abayomi street^^^male^^^1234^^^Savings account
+Lekan ^^^Shittu^^^5081710100^^^LEKAN@GMAIL.COM^^^Lekan123^^^08050678754^^^10,Odoeran street^^^male^^^5864^^^Current account
+first^^^last^^^6383050100^^^EMAILS^^^pass^^^0909000^^^qwert^^^asdf^^^1234^^^Student account
+Adebayo^^^Abdullah^^^6061160100^^^ADEBAYO@GMAIL.COM^^^pass^^^09089876567^^^10,Odoeran^^^male^^^1234^^^Savings account
